@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1756539098 source:c:\users\piala\cpp\pairwith_lastrollo+miñulas\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<iomanip>
+	<algorithm>
+	<cctype>
+

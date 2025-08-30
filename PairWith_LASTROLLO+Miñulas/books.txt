@@ -1,0 +1,3 @@
+The C Programming Language|Kernighan & Ritchie|123-456|1
+Pride and Prejudice|Penguin Classics|0141439513|0
+The Hobbit|J.R.R. Tolkein|0261102214|0
